@@ -1,0 +1,8 @@
+{
+  "name": "htmlentity",
+  "version": "0.5.0",
+  "description": "Awk html entity decoder with a bash wrapper.",
+  "scripts": [ "decodehtml.bash" ],
+  "files": [ "decodehtml.awk", "htmlentity.lst" ],
+  "install": "make install"
+}
